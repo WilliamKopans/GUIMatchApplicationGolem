@@ -8,3 +8,9 @@ $run_dev.*
 ^CODE_OF_CONDUCT\.md$
 ^doc$
 ^Meta$
+^\.travis\.yml$
+^\.github$
+^appveyor\.yml$
+^app\.R$
+^rsconnect$
+^Dockerfile$

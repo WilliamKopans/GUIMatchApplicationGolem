@@ -17,6 +17,9 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Travis build status](https://travis-ci.com/WilliamKopans/GUIMatchApplicationGolem.svg?branch=master)](https://travis-ci.com/WilliamKopans/GUIMatchApplicationGolem)
+[![R-CMD-check](https://github.com/WilliamKopans/GUIMatchApplicationGolem/workflows/R-CMD-check/badge.svg)](https://github.com/WilliamKopans/GUIMatchApplicationGolem/actions)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/WilliamKopans/GUIMatchApplicationGolem?branch=master&svg=true)](https://ci.appveyor.com/project/WilliamKopans/GUIMatchApplicationGolem)
 <!-- badges: end -->
 
 The goal of GUIMatchApplicationGolem is to ...
