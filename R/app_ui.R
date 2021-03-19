@@ -4,7 +4,7 @@
 #'     DO NOT REMOVE.
 #' @import shiny
 #' @noRd
-app_ui <- fluidPage(theme = shinytheme("spacelab"),
+app_ui <- fluidPage(
   
     # Leave this function for adding external resources
     golem_add_external_resources(),
